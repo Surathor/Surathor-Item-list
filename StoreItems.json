@@ -2509,84 +2509,6 @@
 		"defname": "Apparel_Flophat"
 	},
 	{
-		"abr": "sklavenkörpergurt",
-		"price": 275,
-		"category": "Misc",
-		"defname": "Apparel_BodyStrap"
-	},
-	{
-		"abr": "burka",
-		"price": 224,
-		"category": "Misc",
-		"defname": "Apparel_Burka"
-	},
-	{
-		"abr": "robe",
-		"price": 297,
-		"category": "Misc",
-		"defname": "Apparel_Robe"
-	},
-	{
-		"abr": "torturecrown",
-		"price": 91,
-		"category": "Headgear",
-		"defname": "Apparel_TortureCrown"
-	},
-	{
-		"abr": "blindfold",
-		"price": 74,
-		"category": "Headgear",
-		"defname": "Apparel_Blindfold"
-	},
-	{
-		"abr": "morbideplatte(mittel)",
-		"price": 342,
-		"category": "Furniture",
-		"defname": "MorbidSlab_Medium"
-	},
-	{
-		"abr": "morbidslab(broad)",
-		"price": 508,
-		"category": "Furniture",
-		"defname": "MorbidSlab_Broad"
-	},
-	{
-		"abr": "totemischeplatte(mittel)",
-		"price": 342,
-		"category": "Furniture",
-		"defname": "TotemicSlab_Medium"
-	},
-	{
-		"abr": "totemicslab(broad)",
-		"price": 508,
-		"category": "Furniture",
-		"defname": "TotemicSlab_Broad"
-	},
-	{
-		"abr": "spikecorefloor-star(medium)",
-		"price": 323,
-		"category": "Furniture",
-		"defname": "SpikecoreFloorStar_Medium"
-	},
-	{
-		"abr": "spikecorefloor-star(broad)",
-		"price": 483,
-		"category": "Furniture",
-		"defname": "SpikecoreFloorStar_Broad"
-	},
-	{
-		"abr": "rustikalerteppich(mittel)",
-		"price": 256,
-		"category": "Furniture",
-		"defname": "RusticRug_Medium"
-	},
-	{
-		"abr": "rusticrug(broad)",
-		"price": 383,
-		"category": "Furniture",
-		"defname": "RusticRug_Broad"
-	},
-	{
 		"abr": "animalistslab(medium)",
 		"price": 342,
 		"category": "Furniture",
@@ -2645,12 +2567,6 @@
 		"price": 833,
 		"category": "Inert relics",
 		"defname": "RelicInertArk"
-	},
-	{
-		"abr": "würfel",
-		"price": 833,
-		"category": "Inert relics",
-		"defname": "RelicInertCube"
 	},
 	{
 		"abr": "gauranlenseed",
