@@ -13,16 +13,58 @@
 		"defname": "Wort"
 	},
 	{
+		"abr": "ambrosia",
+		"price": 25,
+		"category": "Drugs",
+		"defname": "Ambrosia"
+	},
+	{
+		"abr": "go-juice",
+		"price": 88,
+		"category": "Drugs",
+		"defname": "GoJuice"
+	},
+	{
+		"abr": "luciferium",
+		"price": 117,
+		"category": "Drugs",
+		"defname": "Luciferium"
+	},
+	{
 		"abr": "penoxycyline",
 		"price": 30,
 		"category": "Drugs",
 		"defname": "Penoxycyline"
 	},
 	{
+		"abr": "flake",
+		"price": 23,
+		"category": "Drugs",
+		"defname": "Flake"
+	},
+	{
+		"abr": "psychitetea",
+		"price": 17,
+		"category": "Drugs",
+		"defname": "PsychiteTea"
+	},
+	{
+		"abr": "yayo",
+		"price": 35,
+		"category": "Drugs",
+		"defname": "Yayo"
+	},
+	{
 		"abr": "smokeleafjoint",
 		"price": 18,
 		"category": "Drugs",
 		"defname": "SmokeleafJoint"
+	},
+	{
+		"abr": "wake-up",
+		"price": 58,
+		"category": "Drugs",
+		"defname": "WakeUp"
 	},
 	{
 		"abr": "psylinkneuroformer",
@@ -103,6 +145,30 @@
 		"defname": "BionicTongue"
 	},
 	{
+		"abr": "herz",
+		"price": 2000,
+		"category": "Natural",
+		"defname": "Heart"
+	},
+	{
+		"abr": "lung",
+		"price": 1667,
+		"category": "Natural",
+		"defname": "Lung"
+	},
+	{
+		"abr": "niere",
+		"price": 1500,
+		"category": "Natural",
+		"defname": "Kidney"
+	},
+	{
+		"abr": "leber",
+		"price": 2000,
+		"category": "Natural",
+		"defname": "Liver"
+	},
+	{
 		"abr": "prostheticleg",
 		"price": 433,
 		"category": "Prosthetic",
@@ -113,6 +179,12 @@
 		"price": 433,
 		"category": "Prosthetic",
 		"defname": "SimpleProstheticArm"
+	},
+	{
+		"abr": "künstlichesherz",
+		"price": 383,
+		"category": "Prosthetic",
+		"defname": "SimpleProstheticHeart"
 	},
 	{
 		"abr": "cochlearimplant",
@@ -259,16 +331,34 @@
 		"defname": "Table3x3c"
 	},
 	{
+		"abr": "plantpot",
+		"price": 68,
+		"category": "Furniture",
+		"defname": "PlantPot"
+	},
+	{
 		"abr": "stehlampe",
 		"price": 65,
 		"category": "Furniture",
 		"defname": "StandingLamp"
 	},
 	{
+		"abr": "sonnenlampe",
+		"price": 129,
+		"category": "Furniture",
+		"defname": "SunLamp"
+	},
+	{
 		"abr": "regal",
 		"price": 70,
 		"category": "Furniture",
 		"defname": "Shelf"
+	},
+	{
+		"abr": "kleinesregal",
+		"price": 35,
+		"category": "Furniture",
+		"defname": "ShelfSmall"
 	},
 	{
 		"abr": "kommode",
@@ -311,6 +401,18 @@
 		"price": 600,
 		"category": "Furniture",
 		"defname": "BilliardsTable"
+	},
+	{
+		"abr": "tubetelevision",
+		"price": 525,
+		"category": "Recreation",
+		"defname": "TubeTelevision"
+	},
+	{
+		"abr": "flatscreentelevision",
+		"price": 1533,
+		"category": "Recreation",
+		"defname": "FlatscreenTelevision"
 	},
 	{
 		"abr": "megascreentelevision",
@@ -373,6 +475,12 @@
 		"defname": "PenMarker"
 	},
 	{
+		"abr": "leuchtkapsel",
+		"price": 83,
+		"category": "Special",
+		"defname": "GlowPod"
+	},
+	{
 		"abr": "battery",
 		"price": 333,
 		"category": "Power",
@@ -407,6 +515,30 @@
 		"price": 333,
 		"category": "Production",
 		"defname": "FueledSmithy"
+	},
+	{
+		"abr": "electricsmithy",
+		"price": 492,
+		"category": "Production",
+		"defname": "ElectricSmithy"
+	},
+	{
+		"abr": "werkbank",
+		"price": 758,
+		"category": "Production",
+		"defname": "TableMachining"
+	},
+	{
+		"abr": "electricstove",
+		"price": 375,
+		"category": "Production",
+		"defname": "ElectricStove"
+	},
+	{
+		"abr": "fueledstove",
+		"price": 265,
+		"category": "Production",
+		"defname": "FueledStove"
 	},
 	{
 		"abr": "steinmetztisch",
@@ -659,6 +791,12 @@
 		"price": 3,
 		"category": "Animal products",
 		"defname": "Milk"
+	},
+	{
+		"abr": "insectjelly",
+		"price": 13,
+		"category": "Animal products",
+		"defname": "InsectJelly"
 	},
 	{
 		"abr": "chickenegg(unfert.)",
@@ -1027,6 +1165,12 @@
 		"defname": "Leather_GuineaPig"
 	},
 	{
+		"abr": "menschenhaut",
+		"price": 7,
+		"category": "Leathers",
+		"defname": "Leather_Human"
+	},
+	{
 		"abr": "pigskin",
 		"price": 3,
 		"category": "Leathers",
@@ -1309,6 +1453,60 @@
 		"defname": "BlocksMarble"
 	},
 	{
+		"abr": "breachaxe",
+		"price": 197,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_BreachAxe"
+	},
+	{
+		"abr": "mace",
+		"price": 203,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_Mace"
+	},
+	{
+		"abr": "gladius",
+		"price": 239,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_Gladius"
+	},
+	{
+		"abr": "longsword",
+		"price": 442,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_LongSword"
+	},
+	{
+		"abr": "keule",
+		"price": 141,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_Club"
+	},
+	{
+		"abr": "knife",
+		"price": 111,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_Knife"
+	},
+	{
+		"abr": "ikwa",
+		"price": 197,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_Ikwa"
+	},
+	{
+		"abr": "speer",
+		"price": 322,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_Spear"
+	},
+	{
+		"abr": "revolver",
+		"price": 226,
+		"category": "Ranged weapons",
+		"defname": "Gun_Revolver"
+	},
+	{
 		"abr": "pistole",
 		"price": 232,
 		"category": "Ranged weapons",
@@ -1415,6 +1613,30 @@
 		"price": 525,
 		"category": "Grenades",
 		"defname": "Weapon_GrenadeEMP"
+	},
+	{
+		"abr": "kurzbogen",
+		"price": 74,
+		"category": "Ranged weapons",
+		"defname": "Bow_Short"
+	},
+	{
+		"abr": "pila",
+		"price": 182,
+		"category": "Ranged weapons",
+		"defname": "Pila"
+	},
+	{
+		"abr": "recurvebogen",
+		"price": 110,
+		"category": "Ranged weapons",
+		"defname": "Bow_Recurve"
+	},
+	{
+		"abr": "greatbow",
+		"price": 174,
+		"category": "Ranged weapons",
+		"defname": "Bow_Great"
 	},
 	{
 		"abr": "chargerifle",
@@ -2509,6 +2731,84 @@
 		"defname": "Apparel_Flophat"
 	},
 	{
+		"abr": "sklavenkörpergurt",
+		"price": 275,
+		"category": "Misc",
+		"defname": "Apparel_BodyStrap"
+	},
+	{
+		"abr": "burka",
+		"price": 224,
+		"category": "Misc",
+		"defname": "Apparel_Burka"
+	},
+	{
+		"abr": "robe",
+		"price": 297,
+		"category": "Misc",
+		"defname": "Apparel_Robe"
+	},
+	{
+		"abr": "torturecrown",
+		"price": 91,
+		"category": "Headgear",
+		"defname": "Apparel_TortureCrown"
+	},
+	{
+		"abr": "blindfold",
+		"price": 74,
+		"category": "Headgear",
+		"defname": "Apparel_Blindfold"
+	},
+	{
+		"abr": "morbideplatte(mittel)",
+		"price": 342,
+		"category": "Furniture",
+		"defname": "MorbidSlab_Medium"
+	},
+	{
+		"abr": "morbidslab(broad)",
+		"price": 508,
+		"category": "Furniture",
+		"defname": "MorbidSlab_Broad"
+	},
+	{
+		"abr": "totemischeplatte(mittel)",
+		"price": 342,
+		"category": "Furniture",
+		"defname": "TotemicSlab_Medium"
+	},
+	{
+		"abr": "totemicslab(broad)",
+		"price": 508,
+		"category": "Furniture",
+		"defname": "TotemicSlab_Broad"
+	},
+	{
+		"abr": "spikecorefloor-star(medium)",
+		"price": 323,
+		"category": "Furniture",
+		"defname": "SpikecoreFloorStar_Medium"
+	},
+	{
+		"abr": "spikecorefloor-star(broad)",
+		"price": 483,
+		"category": "Furniture",
+		"defname": "SpikecoreFloorStar_Broad"
+	},
+	{
+		"abr": "rustikalerteppich(mittel)",
+		"price": 256,
+		"category": "Furniture",
+		"defname": "RusticRug_Medium"
+	},
+	{
+		"abr": "rusticrug(broad)",
+		"price": 383,
+		"category": "Furniture",
+		"defname": "RusticRug_Broad"
+	},
+	{
 		"abr": "animalistslab(medium)",
 		"price": 342,
 		"category": "Furniture",
@@ -2567,6 +2867,12 @@
 		"price": 833,
 		"category": "Inert relics",
 		"defname": "RelicInertArk"
+	},
+	{
+		"abr": "würfel",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "RelicInertCube"
 	},
 	{
 		"abr": "gauranlenseed",
